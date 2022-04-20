@@ -1,0 +1,12 @@
+.content-button {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: aquamarine;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: all 500ms;
+}
+
+.content-button:hover {
+  background-color: blueviolet;
+}
